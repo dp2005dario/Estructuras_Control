@@ -1,0 +1,12 @@
+[
+    {
+        "codigo": "P1",
+        "nombre": "Cuaderno",
+        "stock": 12
+    },
+    {
+        "codigo": "P2",
+        "nombre": "Bolígrafo",
+        "stock": 20
+    }
+]

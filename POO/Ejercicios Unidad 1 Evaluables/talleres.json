@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": "T1",
+        "nombre": "Fotografía",
+        "capacidad": 3,
+        "inscritos": 2
+    },
+    {
+        "codigo": "T2",
+        "nombre": "Cerámica",
+        "capacidad": 2,
+        "inscritos": 0
+    }
+]
