@@ -1,0 +1,7 @@
+pan;1.20
+
+leche
+queso;abc
+vino;8.5
+pan;1.35
+;;
