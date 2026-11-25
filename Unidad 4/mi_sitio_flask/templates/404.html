@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block title %}Página no encontrada{% endblock %}
+
+{% block content %}
+<section class="panel">
+  <h1>404 · Página no encontrada</h1>
+  <p>La dirección que buscas no existe. <a href="{{ url_for('home') }}">Volver al inicio</a>.</p>
+</section>
+{% endblock %}
